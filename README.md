@@ -1,2 +1,1 @@
-# ML_for_Data_Science_Masters_Program
-A collection of coding assignments from Machine Learning for Data Science Master's program course
+These folders and notebooks are related to the course Machine Learning for Data Science from the Spring 2021 semester of my Master's in Data Science program at Columbia University. Unfortunately, assignment descriptions were no longer available when I created this repo, so there is little context to add. Please feel free to look through, but these may be less informative than code for other courses.
